@@ -73,5 +73,20 @@
     },
     "affilate": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1819086&hl=en&city=2487",
     "cost": 0
+  },
+  {
+    "name": "ComponentsConf",
+    "url": "https://www.componentsconf.com.au/",
+    "location": {
+      "city": "Melbourne",
+      "country": "Australia",
+      "continent": "Australia"
+    },
+    "date": {
+      "start": "2019-09-06T00:00:00.000Z",
+      "end": "2019-09-06T00:00:00.000Z"
+    },
+    "affilate": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1819086&city=10372",
+    "cost": 0
   }
 ]
