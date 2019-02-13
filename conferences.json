@@ -1,0 +1,77 @@
+[
+  {
+    "name": "CSSConf China 2019",
+    "url": "https://css.w3ctech.com/",
+    "location": {
+      "city": "Shenzhen",
+      "country": "China",
+      "continent": "Asia"
+    },
+    "date": {
+      "start": "2019-03-30T00:00:00.000Z",
+      "end": "2019-03-30T00:00:00.000Z"
+    },
+		"affilate": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1819086&hl=en&city=12333",
+    "cost": 0
+  },
+  {
+    "name": "JSConf.Asia 2019",
+    "url": "https://jsconf.asia/",
+    "location": {
+      "city": "Singapore",
+      "country": "Singapore",
+      "continent": "Asia"
+    },
+    "date": {
+      "start": "2019-06-14T00:00:00.000Z",
+      "end": "2019-03-22T00:00:00.000Z"
+    },
+		"affilate": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1819086&hl=en&city=4064",
+    "cost": 1
+  },
+  {
+    "name": "GMTC 2019 全球大前端技术大会",
+    "url": "https://gmtc2019.geekbang.org/apply",
+    "location": {
+      "city": "Beijing",
+      "country": "China",
+      "continent": "Asia"
+    },
+    "date": {
+      "start": "2019-06-20T00:00:00.000Z",
+      "end": "2019-06-21T00:00:00.000Z"
+    },
+		"affilate": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1819086&hl=en&city=1569",
+    "cost": 1
+  },
+  {
+    "name": "NG-MY 2019",
+    "url": "https://2019.ng-my.org/",
+    "location": {
+      "city": "Kuala Lumpur",
+      "country": "Malaysia",
+      "continent": "Asia"
+    },
+    "date": {
+      "start": "2019-07-06T00:00:00.000Z",
+      "end": "2019-07-07T00:00:00.000Z"
+    },
+		"affilate": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1819086&hl=en&city=14524",
+    "cost": 0
+  },
+  {
+    "name": "Web Weekend Kathmandu 2019",
+    "url": "https://2019.wwktm.co/",
+    "location": {
+      "city": "Kathmandu",
+      "country": "Nepal",
+      "continent": "Asia"
+    },
+    "date": {
+      "start": "2019-09-21T00:00:00.000Z",
+      "end": "2019-09-22T00:00:00.000Z"
+    },
+		"affilate": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1819086&hl=en&city=2487",
+    "cost": 0
+  }
+]
