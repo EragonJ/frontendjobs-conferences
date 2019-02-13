@@ -3,6 +3,7 @@
     "name": "CSSConf China 2019",
     "url": "https://css.w3ctech.com/",
     "location": {
+      "code": "CN",
       "city": "Shenzhen",
       "country": "China",
       "continent": "Asia"
@@ -18,6 +19,7 @@
     "name": "JSConf.Asia 2019",
     "url": "https://jsconf.asia/",
     "location": {
+      "code": "SG",
       "city": "Singapore",
       "country": "Singapore",
       "continent": "Asia"
@@ -33,6 +35,7 @@
     "name": "GMTC 2019 全球大前端技术大会",
     "url": "https://gmtc2019.geekbang.org/apply",
     "location": {
+      "code": "CN",
       "city": "Beijing",
       "country": "China",
       "continent": "Asia"
@@ -48,6 +51,7 @@
     "name": "NG-MY 2019",
     "url": "https://2019.ng-my.org/",
     "location": {
+      "code": "MY",
       "city": "Kuala Lumpur",
       "country": "Malaysia",
       "continent": "Asia"
@@ -63,6 +67,7 @@
     "name": "Web Weekend Kathmandu 2019",
     "url": "https://2019.wwktm.co/",
     "location": {
+      "code": "NP",
       "city": "Kathmandu",
       "country": "Nepal",
       "continent": "Asia"
@@ -78,6 +83,7 @@
     "name": "ComponentsConf",
     "url": "https://www.componentsconf.com.au/",
     "location": {
+      "code": "AU",
       "city": "Melbourne",
       "country": "Australia",
       "continent": "Australia"
