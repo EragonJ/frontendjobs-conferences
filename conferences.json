@@ -94,5 +94,53 @@
     },
     "affilate": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1819086&city=10372",
     "cost": 0
+  },
+  {
+    "name": "Frontend Developer Love",
+    "url": "https://www.frontenddeveloperlove.com/",
+    "location": {
+      "code": "NL",
+      "city": "Amsterdam",
+      "country": "The Netherlands",
+      "continent": "Europe"
+    },
+    "date": {
+      "start": "2019-02-13T00:00:00.000Z",
+      "end": "2019-02-13T00:00:00.000Z"
+    },
+    "affilate": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1819086&city=13868",
+    "cost": 0
+  },
+  {
+    "name": "Vuejs Amsterdam",
+    "url": "http://www.vuejs.amsterdam/",
+    "location": {
+      "code": "NL",
+      "city": "Amsterdam",
+      "country": "The Netherlands",
+      "continent": "Europe"
+    },
+    "date": {
+      "start": "2019-02-14T00:00:00.000Z",
+      "end": "2019-02-15T00:00:00.000Z"
+    },
+    "affilate": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1819086&city=13868",
+    "cost": 0
+  },
+  {
+    "name": "Agent Conf",
+    "url": "https://www.agent.sh/",
+    "location": {
+      "code": "AT",
+      "city": "Dornbirn & Lech",
+      "country": "Austria",
+      "continent": "Europe"
+    },
+    "date": {
+      "start": "2019-02-21T00:00:00.000Z",
+      "end": "2019-02-24T00:00:00.000Z"
+    },
+    "affilate": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1819086&city=19631",
+    "cost": 3
   }
 ]
