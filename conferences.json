@@ -142,5 +142,53 @@
     },
     "affilate": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1819086&city=19631",
     "cost": 3
+  },
+  {
+    "name": "S Kongress 2019 – (r)evolution of Architectures",
+    "url": "https://js-kongress.com/",
+    "location": {
+      "code": "DE",
+      "city": "Munich",
+      "country": "Germany",
+      "continent": "Europe"
+    },
+    "date": {
+      "start": "2019-03-11T00:00:00.000Z",
+      "end": "2019-03-12T00:00:00.000Z"
+    },
+    "affilate": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1819086&hl=en&city=16017",
+    "cost": 2
+  },
+  {
+    "name": "UpFront",
+    "url": "https://upfrontconf.com/",
+    "location": {
+      "code": "GB",
+      "city": "Manchester",
+      "country": "United Kingdom",
+      "continent": "Europe"
+    },
+    "date": {
+      "start": "2019-03-22T00:00:00.000Z",
+      "end": "2019-03-22T00:00:00.000Z"
+    },
+    "affilate": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1819086&hl=en&city=12349",
+    "cost": 1
+  },
+  {
+    "name": "Typeof",
+    "url": "https://typeofconf.com/",
+    "location": {
+      "code": "PT",
+      "city": "Porto",
+      "country": "Portugal",
+      "continent": "Europe"
+    },
+    "date": {
+      "start": "2019-03-27T00:00:00.000Z",
+      "end": "2019-03-29T00:00:00.000Z"
+    },
+    "affilate": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1819086&hl=en&city=8738",
+    "cost": 1
   }
 ]
