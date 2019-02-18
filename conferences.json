@@ -190,5 +190,69 @@
     },
     "affilate": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1819086&hl=en&city=8738",
     "cost": 1
+  },
+  {
+    "name": "Frontend NE: The Conference",
+    "url": "https://2019.frontendne.co.uk/",
+    "location": {
+      "code": "GB",
+      "city": "Newcastle-Upon-Tyne",
+      "country": "United Kingdom",
+      "continent": "Europe"
+    },
+    "date": {
+      "start": "2019-04-03T00:00:00.000Z",
+      "end": "2019-04-03T00:00:00.000Z"
+    },
+    "affilate": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1819086&hl=en&city=16164",
+    "cost": 1
+  },
+  {
+    "name": "FrontCon 2019",
+    "url": "https://frontcon.lv/",
+    "location": {
+      "code": "LV",
+      "city": "Riga",
+      "country": "Latvia",
+      "continent": "Europe"
+    },
+    "date": {
+      "start": "2019-04-03T00:00:00.000Z",
+      "end": "2019-04-05T00:00:00.000Z"
+    },
+    "affilate": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1819086&hl=en&city=3636",
+    "cost": 1
+  },
+  {
+    "name": "App.js Conf",
+    "url": "https://appjs.co/",
+    "location": {
+      "code": "PL",
+      "city": "Krakow",
+      "country": "Poland",
+      "continent": "Europe"
+    },
+    "date": {
+      "start": "2019-04-04T00:00:00.000Z",
+      "end": "2019-04-05T00:00:00.000Z"
+    },
+    "affilate": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1819086&hl=en&city=15790",
+    "cost": 1
+  },
+  {
+    "name": "JS Fest",
+    "url": "http://jsfest.com.ua/",
+    "location": {
+      "code": "UA",
+      "city": "Kiev",
+      "country": "Ukraine",
+      "continent": "Europe"
+    },
+    "date": {
+      "start": "2019-04-05T00:00:00.000Z",
+      "end": "2019-04-06T00:00:00.000Z"
+    },
+    "affilate": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1819086&hl=en&city=4214",
+    "cost": 1
   }
 ]
